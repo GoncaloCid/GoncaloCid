@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**GoncaloCid/GoncaloCid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently getting ready to do a bootcamp in data engineering
 - 🌱 I’m currently learning to code in python, how to use the command line interface, and a bit about git and github
